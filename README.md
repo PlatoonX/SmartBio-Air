@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/Banner.png" width="100%">
+  <img src="src/img/Banner.png" width="100%">
 </p>
 
 # Introduction
@@ -44,7 +44,7 @@ SmartBio Air uses algae together with AI and IoT technology to create a smarter 
 ---
 
 <p align="center">
-  <img src="src/Img1.jpg" width="600">
+  <img src="src/img/Img1.jpg" width="600">
 </p>
 
 ---
@@ -142,7 +142,7 @@ This mode activates when internet connectivity is available.
 ---
 
 <p align="center">
-  <img src="src/Img3.png" width="55%">
+  <img src="src/img/Img3.png" width="55%">
 </p>
 
 ---
@@ -263,7 +263,7 @@ When internet is available:
 # 🔄 System Workflow
 
 <p align="center">
-  <img src="src/SmartBio Air – Process Flow.png" width="100%">
+  <img src="src/img/SmartBio Air – Process Flow.png" width="100%">
 </p>
 
 ---
@@ -271,7 +271,7 @@ When internet is available:
 # 🧪 Prototype Design
 
 <p align="center">
-  <img src="src/360.gif" width="100%">
+  <img src="src/gif/360.gif" width="100%">
 </p>
 
 ---
@@ -279,7 +279,7 @@ When internet is available:
 # 🌐 Web Dashboard
 
 <p align="center">
-  <img src="src/Demo.gif" width="100%">
+  <img src="src/gif/Demo.gif" width="100%">
 </p>
 
 ---
@@ -385,13 +385,21 @@ in a web browser.
 ```text id="3tzr9p"
 SmartBio-Air/
 │
-├── Data/
-├── Main/
-├── TinyML_MotorPumpFaultDetection/
-├── src/
-├── index.html
-├── LICENSE
-└── README.md
+├── data/
+│   ├── datacollectionscript/
+│   └── datasets/
+│
+├── tinyml_motorpumpfaultdetection/
+│   ├── faultdetection_inferencing/
+│   └── faultdetection_modelfile/
+│
+├── myosa-main/
+├── agent_main/
+├── webapp_main/
+│
+└── src/
+    ├── img/
+    └── gif/
 ```
 
 ---
