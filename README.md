@@ -380,6 +380,19 @@ in a web browser.
 
 ---
 
+## Requirements — What you need to reproduce or extend this project
+
+The following checklist highlights the practical items, accounts, data, and skills recommended to build, run, or extend SmartBio Air. This section complements the hardware and software summaries above without repeating them verbatim.
+
+- Hardware (minimum): a Wi‑Fi capable microcontroller (MYOSA Mini / ESP32), a low‑voltage DC air pump and fan, a transparent algae chamber or container, basic environmental sensors (gas sensor(s), temperature/humidity), an IMU (MPU6050 or equivalent) for vibration, a small OLED or other status display, relays or MOSFETs for actuator control, and a reliable power supply.
+- Software & accounts: Arduino IDE (or PlatformIO), an Edge Impulse account for TinyML dataset/model work (optional but recommended), and an optional cloud account (Azure, or your choice) for long‑term logging and dashboard hosting.
+- Data & models: the project includes example datasets and an exported TFLite model in `tinyml_motorpumpfaultdetection/`; prepare to collect labeled vibration samples if retraining models.
+- Tools & accessories: basic electronics tools (soldering iron, wire strippers, multimeter), jumper wires, tubing for pump connections, mounting hardware, and silicone sealant or gaskets for leak prevention.
+- Skills & knowledge: basic Arduino/C++ firmware skills, familiarity with Edge Impulse (or TinyML workflows), comfort with simple web technologies (HTML/CSS/JS) for the dashboard, and basic data-analysis skills (Python / Jupyter recommended).
+- Safety & lab considerations: handle algae cultures responsibly (avoid release), keep electrical components away from water, provide drip trays, use GFCI or protected power sources, and follow local biosafety guidance for experiments.
+- Optional extras: camera for time‑lapse imaging, additional environmental sensors (CO₂ NDIR sensor, particulate matter sensor), and enclosure or cabinetry for a production prototype.
+
+
 # 📂 Project Structure
 
 ```text id="3tzr9p"
