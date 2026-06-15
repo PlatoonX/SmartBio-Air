@@ -42,9 +42,11 @@ Microalgae offer a natural alternative because they:
 SmartBio Air uses algae together with AI and IoT technology to create a smarter and safer purification system.
 
 ---
+
 <p align="center">
   <img src="src/Img1.jpg" width="600">
 </p>
+
 ---
 
 # Problem Statement
@@ -71,10 +73,15 @@ There is a need for a system that can:
 The main goals of SmartBio Air are:
 
 ✅ Create an algae-based indoor air purifier
+
 ✅ Monitor indoor environmental conditions
+
 ✅ Use Edge AI for autonomous operation
+
 ✅ Detect motor faults using TinyML
+
 ✅ Study algae behavior under changing pollution conditions
+
 ✅ Support long-term data collection and visualization
 
 ---
