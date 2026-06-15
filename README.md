@@ -260,7 +260,7 @@ When internet is available:
 
 ---
 
-# 🔄 System Workflow
+# System Workflow
 
 <p align="center">
   <img src="src/img/SmartBio Air – Process Flow.png" width="100%">
@@ -268,7 +268,7 @@ When internet is available:
 
 ---
 
-# 🧪 Prototype Design
+# Prototype Design
 
 <p align="center">
   <img src="src/gif/360.gif" width="100%">
@@ -276,7 +276,7 @@ When internet is available:
 
 ---
 
-# 🌐 Web Dashboard
+# Web Dashboard
 
 <p align="center">
   <img src="src/gif/Demo.gif" width="100%">
@@ -284,7 +284,7 @@ When internet is available:
 
 ---
 
-# ✨ Main Features
+# Main Features
 
 ✅ Algae-assisted air purification
 
@@ -308,7 +308,7 @@ When internet is available:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 # Hardware
 
@@ -340,7 +340,7 @@ When internet is available:
 
 ---
 
-# 📊 Project Outcomes
+# Project Outcomes
 
 ✅ Functional algae-based indoor air purifier
 
@@ -358,7 +358,7 @@ When internet is available:
 
 ---
 
-# 📁 Installation
+# Installation
 
 ## Clone Repository
 
@@ -393,7 +393,7 @@ The following checklist highlights the practical items, accounts, data, and skil
 - Optional extras: camera for time‑lapse imaging, additional environmental sensors (CO₂ NDIR sensor, particulate matter sensor), and enclosure or cabinetry for a production prototype.
 
 
-# 📂 Project Structure
+# Project Structure
 
 ```text id="3tzr9p"
 SmartBio-Air/
@@ -417,7 +417,7 @@ SmartBio-Air/
 
 ---
 
-# 🔮 Future Scope
+# Future Scope
 
 * Mobile application integration
 * Advanced AI prediction models
@@ -428,7 +428,7 @@ SmartBio-Air/
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
