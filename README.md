@@ -2,8 +2,6 @@
   <img src="src/Banner.png" width="100%">
 </p>
 
----
-
 # Introduction
 
 SmartBio Air is an intelligent indoor air purification and environmental research system powered by:
@@ -338,11 +336,17 @@ When internet is available:
 # 📊 Project Outcomes
 
 ✅ Functional algae-based indoor air purifier
+
 ✅ Continuous environmental monitoring
+
 ✅ Autonomous Edge AI execution
+
 ✅ Pollution and algae growth dataset
+
 ✅ TinyML research platform
+
 ✅ IoT-based environmental monitoring system
+
 ✅ Cloud-connected research workflow
 
 ---
@@ -352,7 +356,7 @@ When internet is available:
 ## Clone Repository
 
 ```bash id="4lmq7x"
-git clone https://github.com/nimalan-parameswaran/SmartBio-Air.git
+git clone https://github.com/PlatoonX/SmartBio-Air.git
 ```
 
 ---
