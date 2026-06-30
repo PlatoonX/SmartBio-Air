@@ -193,7 +193,7 @@ The algae chamber acts as the biological purification component.
 
 ---
 
-# 🔹 Step 3 — Edge AI Safety Control
+# Step 3 — Edge AI Safety Control
 
 Safety-critical operations run directly on the device using Edge AI.
 
@@ -224,7 +224,7 @@ If abnormal behavior is detected:
 
 ---
 
-# 🔹 Step 4 — Autonomous System Operation
+# Step 4 — Autonomous System Operation
 
 The MYOSA ESP32 controller manages:
 
@@ -242,7 +242,7 @@ The system continues operating even during:
 
 ---
 
-# 🔹 Step 5 — Cloud AI Analysis
+# Step 5 — Cloud AI Analysis
 
 When internet is available:
 
